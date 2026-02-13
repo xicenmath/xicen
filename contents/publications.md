@@ -1,7 +1,7 @@
-- <strong><strong>Xi Cen</strong></strong>, The multilinear Littlewood-Paley square operators and their commutators on weighted Morrey spaces, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-023-00406-1)
-- <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6)
-- <strong><strong>Xi Cen</strong></strong>, Qianjun He, Zichen Song, Zihan Wang, New fractional type weights and the boundedness of some operators, [Anal.Math.Phys. 15, 26 (2025).](https://doi.org/10.1007/s13324-025-01027-z)
-- <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds I: Sparse domination for multilinear pseudo-differential operators, [J. Geom. Anal. 36, 20 (2026).](https://doi.org/10.1007/s12220-025-02268-x)
+1. <strong><strong>Xi Cen</strong></strong>, The multilinear Littlewood-Paley square operators and their commutators on weighted Morrey spaces, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-023-00406-1)
+2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6)
+3. <strong><strong>Xi Cen</strong></strong>, Qianjun He, Zichen Song, Zihan Wang, New fractional type weights and the boundedness of some operators, [Anal.Math.Phys. 15, 26 (2025).](https://doi.org/10.1007/s13324-025-01027-z)
+4. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds I: Sparse domination for multilinear pseudo-differential operators, [J. Geom. Anal. 36, 20 (2026).](https://doi.org/10.1007/s12220-025-02268-x)
 
 
 ### Submitted
