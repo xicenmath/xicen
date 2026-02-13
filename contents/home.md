@@ -1,4 +1,75 @@
 
+
+
+#### Research Interests
+
+
+
+My research interests mainly focus on Multilinear Harmonic Analysis and Partial Differential Equations, which can be divided into the following aspects:
+
+* The property of multilinear oscillatory integral operators, multilinear Fourier integral operators, multilinear pseudo-differential operators, multilinear Fourier multipliers.
+* Sparse bounds and sharp weighted bounds of the important operators.
+* Multilinear extrapolation theory and multilinear dyadic representation theory.
+* The singular integral operators and maximal operators along the curve.
+* Boundedness extended to the weighted  multi-exponent function spaces (weighted Besov spaces, weighted Triebel spaces, weighted Sobolev spaces).
+* Bilinear Strichartz estimates and non-linear Schrödinger equations.
+
+
+
+
+
+#### Links to other academic homepages:
+- [ResearchGate](https://www.researchgate.net/profile/Xi-Cen-8?ev=prf_overview)
+- [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=RT9VIBEAAAAJ&view_op=list_works&sortby=pubdate)
+- [ORCID](https://orcid.org/0000-0002-5385-5139)
+
+
+
+
+
+#### Contact
+Email: xicenmath@gmail.com
+
+#### Education
+
+🕒 **2018.09 - 2022.06**  
+
+📍 **School of Mathematics and Physics, Southwest University of Science and Technology** 
+
+🎓 **Bachelor of Science**
+
+---
+
+🕒 **2025.09 - Now**
+
+📍 **School of Science, China University of Mining and Technology-Beijing**  
+
+🎓 **Master student, Advisor: [Prof. Xinfeng Wu](https://lxy.cumtb.edu.cn/info/1067/1219.htm)**
+
+
+#### Professional services
+
+Reviewer for "Mathematical Reviews" (USA) and "Zentralblatt MATH" (Germany)
+
+Referee for "Journal of Function Spaces" and "AIMS Mathematics" in 2024.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-yin-a21314292/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerryYin777)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%230A4D92?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en#)
@@ -66,3 +137,5 @@ My current passion revolves around building **EFFICIENT** system solutions to AG
 * If you're an undergraduate student feeling uncertain, especially from a diverse background, and hope to gain some learning experiences from me, I also warmly welcome that!
 
 * ✉️ [yin00486 [at] umn.edu](mailto:yin00486@umn.edu)
+
+-->
