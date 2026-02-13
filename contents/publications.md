@@ -10,7 +10,7 @@
 - <strong><strong>Xi Cen</strong></strong>, Zichen Song, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, Zichen Song, The multilinear fractional bounded mean oscillation operator theory I: sparse domination, sparse $T1$ theorem, off-diagonal extrapolation, quantitative weighted estimate---for generalized commutators, [https://arxiv.org/abs/2506.23486](https://arxiv.org/abs/2506.23486).
 - <strong><strong>Xi Cen</strong></strong>, Zichen Song, Zihan Wang, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, Zichen Song, Zihan Wang, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates}, (Under Review in the Journal).
+- <strong><strong>Xi Cen</strong></strong>, Zichen Song, Zihan Wang, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Reviesd in J. Fourier Anal. Appl.)
 - <strong><strong>Xi Cen</strong></strong>, The standard sparse domination and standard sharp weighted estimates for multilinear oscillatory integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The sharp weighted and unweighted boundedness theory for multilinear oscillatory integral operators, (Submitted).
@@ -24,6 +24,63 @@
 - <strong><strong>Xi Cen</strong></strong>, Pengfei Lu, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators I: the exponents lie on diagonal plane, (Submitted)
 - <strong><strong>Xi Cen</strong></strong>, Pengfei Lu, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes, (Submitted)
 - <strong><strong>Xi Cen</strong></strong>, Zichen Song, Xinfeng Wu, Off-Diagonal Sharp and Improved Quantitative Weighted Bounds for Multilinear Operators with Integral Regularity: Beyond Multilinear Oscillatory Integral Operators, (Submitted).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 For full paper list (not now, but I'm sure there will be more great work in the future), please refer to my [Google Scholar](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en).
