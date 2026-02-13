@@ -17,14 +17,13 @@
 - <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, Sharp maximal function estimates and weighted estimates for multilinear oscillatory integral operators and their commutators, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, Zichen Song, Xinfeng Wu, The improved weighted estimates for multilinear pseudo-differential operators and their commutators, (Submitted).
-- <strong><strong>Xi Cen</strong></strong>, Xinfeng Wu, Off-Diagonal Sharp and Improved Quantitative Weighted Bounds for Multilinear Operators with Integral Regularity: Beyond Multilinear Oscillatory Integral Operators, (Submitted)
 - <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, Zihan Wang, Xinfeng Wu, Kato--Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, The Lebesgue--Besov estimates for bilinear oscillatory integral operators, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Submitted)
 - <strong><strong>Xi Cen</strong></strong>, Pengfei Lu, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators I: the exponents lie on diagonal plane, (Submitted)
 - <strong><strong>Xi Cen</strong></strong>, Pengfei Lu, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes, (Submitted)
-
+- <strong><strong>Xi Cen</strong></strong>, Zichen Song, Xinfeng Wu, Off-Diagonal Sharp and Improved Quantitative Weighted Bounds for Multilinear Operators with Integral Regularity: Beyond Multilinear Oscillatory Integral Operators, (Submitted).
 
 <!--
 For full paper list (not now, but I'm sure there will be more great work in the future), please refer to my [Google Scholar](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en).
