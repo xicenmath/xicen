@@ -22,9 +22,9 @@
 - <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear oscillatory integral operators, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Submitted)
-- <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators I: the exponents lie on diagonal plane, (Submitted)
-- <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes, (Submitted)
-
+- <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators I: the exponents lie on diagonal plane, (Submitted).
+- <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes, (Submitted).
+- <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, The bilinear Hardy estimates and endpoint Lebesgue estimates for bilinear oscillatory integral operators, (Submitted).
 
 
 
