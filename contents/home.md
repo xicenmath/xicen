@@ -25,10 +25,10 @@ After five years of self-study from 2020 to 2025, I am determined to become a pr
 
 
 
-#### Contact
+### Contact
 Email: xicenmath@gmail.com
 
-#### Education
+## Education
 
 🕒 **2018.09 - 2022.06**  
 
