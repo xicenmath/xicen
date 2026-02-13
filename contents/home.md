@@ -45,6 +45,7 @@ Email: xicenmath@gmail.com
 🎓 **Master student, Advisor: [Prof. Xinfeng Wu](https://lxy.cumtb.edu.cn/info/1067/1219.htm)**
 
 
+<!--
 #### Professional services
 
 Reviewer for "Mathematical Reviews" (USA) and "Zentralblatt MATH" (Germany)
@@ -67,7 +68,6 @@ Referee for "Journal of Function Spaces" and "AIMS Mathematics" in 2024, 2026.
 
 
 
-<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-yin-a21314292/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerryYin777)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%230A4D92?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en#)
