@@ -6,7 +6,7 @@
 
 ### Submitted
 
-- Xi Cen, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type}.[https://arxiv.org/abs/2408.04544](https://arxiv.org/abs/2408.04544)
+- Xi Cen, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type}, [https://arxiv.org/abs/2408.04544](https://arxiv.org/abs/2408.04544)
 - Xi Cen, Zichen Song, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review in the Journal).
 - Xi Cen, Zichen Song, The multilinear fractional bounded mean oscillation operator theory I: sparse domination, sparse $T1$ theorem, off-diagonal extrapolation, quantitative weighted estimate---for generalized commutators}, [https://arxiv.org/abs/2506.23486](https://arxiv.org/abs/2506.23486).
 - Xi Cen, Zichen Song, Zihan Wang, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review in the Journal).
