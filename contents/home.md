@@ -1,5 +1,5 @@
 
-#Xi Cen
+#<strong>Xi Cen</strong>
 
 #### Personal Profile
 
