@@ -19,9 +19,7 @@ My research interests mainly focus on Multilinear Harmonic Analysis and Partial 
 
 
 #### Links to other academic homepages:
-- [ResearchGate](https://www.researchgate.net/profile/Xi-Cen-8?ev=prf_overview)
-- [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=RT9VIBEAAAAJ&view_op=list_works&sortby=pubdate)
-- [ORCID](https://orcid.org/0000-0002-5385-5139)
+- [ResearchGate](https://www.researchgate.net/profile/Xi-Cen-8?ev=prf_overview)   [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=RT9VIBEAAAAJ&view_op=list_works&sortby=pubdate)   [ORCID](https://orcid.org/0000-0002-5385-5139)
 
 
 
