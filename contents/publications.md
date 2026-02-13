@@ -8,45 +8,22 @@
 
 - Xi Cen, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type}, [https://arxiv.org/abs/2408.04544](https://arxiv.org/abs/2408.04544)
 - Xi Cen, Zichen Song, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review in the Journal).
-- Xi Cen, Zichen Song, The multilinear fractional bounded mean oscillation operator theory I: sparse domination, sparse $T1$ theorem, off-diagonal extrapolation, quantitative weighted estimate---for generalized commutators}, [https://arxiv.org/abs/2506.23486](https://arxiv.org/abs/2506.23486).
+- Xi Cen, Zichen Song, The multilinear fractional bounded mean oscillation operator theory I: sparse domination, sparse $T1$ theorem, off-diagonal extrapolation, quantitative weighted estimate---for generalized commutators, [https://arxiv.org/abs/2506.23486](https://arxiv.org/abs/2506.23486).
 - Xi Cen, Zichen Song, Zihan Wang, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review in the Journal).
 - Xi Cen, Zichen Song, Zihan Wang, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates}, (Under Review in the Journal).
 - Xi Cen, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Reviesd in J. Fourier Anal. Appl.)
 - Xi Cen, The standard sparse domination and standard sharp weighted estimates for multilinear oscillatory integral operators, (Under Review in the Journal).
 - Xi Cen, The sharp weighted and unweighted boundedness theory for multilinear oscillatory integral operators, (Submitted).
-- Xi Cen, The off-diagonal quantitative weighted improvements for oscillatory integral operators}, (Submitted).
-
-
-\item  Xi Cen,
-\textbf{Sharp maximal function estimates and weighted estimates for multilinear oscillatory integral operators and their commutators}, (Submitted)\\
-
-\item  Xi Cen, Zichen Song, Xinfeng Wu,
-\textbf{The improved weighted estimates for multilinear pseudo-differential operators and their commutators}, (Submitted)\\
-
-\item  Xi Cen, Xinfeng Wu,
-\textbf{Off-Diagonal Sharp and Improved Quantitative Weighted Bounds for Multilinear Operators with Integral Regularity: Beyond Multilinear Oscillatory Integral Operators}, (Submitted)\\
-
-\item  Xi Cen,
-\textbf{On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights}, (Submitted)\\
-
-
-\item  Xi Cen, Zihan Wang, Xinfeng Wu,
-\textbf{Kato--Ponce inequality for bilinear oscillatory integral operators on Besov spaces}, (Submitted)\\
-
-
-\item  Xi Cen,
-\textbf{The Lebesgue--Besov estimates for bilinear oscillatory integral operators}, (Submitted)\\
-
-\item  Xi Cen,
-\textbf{Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity}, (Submitted)\\
-
-
-\item  Xi Cen, Pengfei Lu,
-\textbf{Endpoint Lebesgue boundedness for bilinear oscillatory integral operators I: the exponents lie on diagonal plane}, (Submitted)\\
-
-\item  Xi Cen, Pengfei Lu,
-\textbf{Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes}, (Submitted)\\
-
+- Xi Cen, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Submitted).
+- Xi Cen, Sharp maximal function estimates and weighted estimates for multilinear oscillatory integral operators and their commutators, (Under Review in the Journal).
+- Xi Cen, Zichen Song, Xinfeng Wu, The improved weighted estimates for multilinear pseudo-differential operators and their commutators, (Submitted).
+- Xi Cen, Xinfeng Wu, Off-Diagonal Sharp and Improved Quantitative Weighted Bounds for Multilinear Operators with Integral Regularity: Beyond Multilinear Oscillatory Integral Operators, (Submitted)
+- Xi Cen, On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights, (Submitted).
+- Xi Cen, Zihan Wang, Xinfeng Wu, Kato--Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Submitted).
+- Xi Cen, The Lebesgue--Besov estimates for bilinear oscillatory integral operators, (Submitted).
+- Xi Cen, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Submitted)
+- Xi Cen, Pengfei Lu, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators I: the exponents lie on diagonal plane, (Submitted)
+- Xi Cen, Pengfei Lu, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes, (Submitted)
 
 
 <!--
