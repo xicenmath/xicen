@@ -1,11 +1,9 @@
 
 
 
-#### Research Interests
+#### Personal Profile
 
-
-
-My research interests mainly focus on Multilinear Harmonic Analysis and Partial Differential Equations, which can be divided into the following aspects:
+After five years of self-study from 2020 to 2025, I am determined to become a professional player of post-00s harmonic analysis. My research interests mainly focus on Multilinear Harmonic Analysis and Partial Differential Equations, which can be divided into the following aspects:
 
 * The property of multilinear oscillatory integral operators, multilinear Fourier integral operators, multilinear pseudo-differential operators, multilinear Fourier multipliers.
 * Sparse bounds and sharp weighted bounds of the important operators.
