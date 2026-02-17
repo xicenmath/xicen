@@ -17,10 +17,7 @@ After five years of self-study from 2020 to 2025, I am determined to become a pr
 
 
 ## Links to other academic homepages:
-- [ResearchGate](https://www.researchgate.net/profile/Xi-Cen-8?ev=prf_overview)
-- [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=RT9VIBEAAAAJ&view_op=list_works&sortby=pubdate)
-- [ORCID](https://orcid.org/0000-0002-5385-5139)
-
+1.[ResearchGate](https://www.researchgate.net/profile/Xi-Cen-8?ev=prf_overview)   2.[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=RT9VIBEAAAAJ&view_op=list_works&sortby=pubdate)   3.[ORCID](https://orcid.org/0000-0002-5385-5139)   4.[Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1614697)
 
 
 
