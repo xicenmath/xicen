@@ -10,7 +10,7 @@ After five years of self-study from 2020 to 2025, I am determined to become a pr
 * Multilinear extrapolation theory and multilinear dyadic representation theory.
 * The singular integral operators and maximal operators along the curve.
 * Boundedness extended to the weighted  multi-exponent function spaces (weighted Besov spaces, weighted Triebel spaces, weighted Sobolev spaces).
-* Bilinear restriction estimates and non-linear Schrödinger equations.
+* Bilinear restriction estimates and nonlinear Schrödinger equations.
 
 
 
