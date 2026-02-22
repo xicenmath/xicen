@@ -26,8 +26,9 @@
 - <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes, (Submitted).
 - <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, The bilinear Hardy estimates and endpoint Lebesgue estimates for bilinear oscillatory integral operators, (Submitted).
 
+<span style="color:#FF8C00"><strong>Math is hard. So is life. Get over it!</strong></span>
 
-<strong><strong> Math is hard. So is life. Get over it!</strong></strong>
+
 
 
 
