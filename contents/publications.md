@@ -27,7 +27,7 @@
 - <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, The bilinear Hardy estimates and endpoint Lebesgue estimates for bilinear oscillatory integral operators, (Submitted).
 
 
-### Math is hard. So is life. Get over it!
+<strong><strong> Math is hard. So is life. Get over it!</strong></strong>
 
 
 
