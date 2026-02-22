@@ -3,7 +3,7 @@
 
 ## Personal Profile
 
-After five years of self-study from 2020 to 2025, I am determined to become a professional player of post-00s harmonic analysis. My research interests mainly focus on Multilinear Harmonic Analysis and Partial Differential Equations, which can be divided into the following aspects:
+After five years of self-study from 2020 to 2025, I am determined to become a professional player of post-00s harmonic analysis. My hobbies and interests are: long-distance running of 10km, half marathon, and beyond. My research interests mainly focus on Multilinear Harmonic Analysis and Partial Differential Equations, which can be divided into the following aspects:
 
 * The property of multilinear oscillatory integral operators, multilinear Fourier integral operators, multilinear pseudo-differential operators, multilinear Fourier multipliers.
 * Sparse bounds and sharp weighted bounds of the important operators.
