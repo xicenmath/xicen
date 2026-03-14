@@ -10,7 +10,7 @@
 - <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Zichen Song, Zihan Wang</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Zichen Song, Zihan Wang</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Reviesd in J. Fourier Anal. Appl.)
+- <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The standard sparse domination and standard sharp weighted estimates for multilinear oscillatory integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The sharp weighted and unweighted boundedness theory for multilinear oscillatory integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review in the Journal).
