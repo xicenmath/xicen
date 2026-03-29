@@ -17,13 +17,13 @@
 - <strong><strong>Xi Cen, Zichen Song, Xinfeng Wu</strong></strong>, Off-diagonal sharp and improved quantitative weighted bounds for multilinear operators with integral regularity: beyond multilinear oscillatory integral odperators.
 - <strong><strong>Xi Cen, Zihan Wang, Xinfeng Wu</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces.
 - <strong><strong>Xi Cen</strong></strong>, Sharp maximal function estimates and weighted estimates for multilinear oscillatory integral operators and their commutators, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights, (Submitted).
+- <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear oscillatory integral operators, (Submitted).
-- <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Submitted)
+- <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review in the Journal).
+- <strong><strong>Xi Cen, Zichen Song, Zihan Wang</strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Submitted).
+- <strong><strong>Xi Cen</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Pengfei Lu</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators I: the exponents lie on diagonal plane, (Submitted).
 - <strong><strong>Xi Cen, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes, (Submitted).
-- <strong><strong>Xi Cen, Zichen Song, Zihan Wang</strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Submitted).
-- <strong><strong>Xi Cen</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Submitted).
 
 <span style="color:#FF8C00"><strong>Math is hard. So is life. Get over it!</strong></span>
 
