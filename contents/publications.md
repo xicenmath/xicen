@@ -9,8 +9,8 @@
 
 - <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, [https://arxiv.org/abs/2408.04544](https://arxiv.org/abs/2408.04544) (Under Review in the Journal).
 - <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Zichen Song, Zihan Wang</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Zichen Song, Zihan Wang</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review in the Journal).
+- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song, </strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review in the Journal).
+- <strong><strong>Xi Cen, Zichen Song, </strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Zichen Song, Xinfeng Wu</strong></strong>, The improved weighted estimates for multilinear pseudo-differential operators and their commutators, (Under Review in the Journal).
