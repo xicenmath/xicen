@@ -2,6 +2,7 @@
 2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6)
 3. <strong><strong>Xi Cen</strong></strong>, Qianjun He, Zichen Song, Zihan Wang, New fractional type weights and the boundedness of some operators, [Anal.Math.Phys. 15, 26 (2025).](https://doi.org/10.1007/s13324-025-01027-z)
 4. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds I: Sparse domination for multilinear pseudo-differential operators, [J. Geom. Anal. 36, 20 (2026).](https://doi.org/10.1007/s12220-025-02268-x)
+5. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, Banach J. Math. Anal.(to appear).
 
 
 ### Submitted
@@ -12,7 +13,6 @@
 - <strong><strong>Xi Cen, Zichen Song, Zihan Wang</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The standard sparse domination and standard sharp weighted estimates for multilinear oscillatory integral operators, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, The sharp weighted and unweighted boundedness theory for multilinear oscillatory integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Zichen Song, Xinfeng Wu</strong></strong>, The improved weighted estimates for multilinear pseudo-differential operators and their commutators, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Zichen Song, Xinfeng Wu</strong></strong>, Off-diagonal sharp and improved quantitative weighted bounds for multilinear operators with integral regularity: beyond multilinear oscillatory integral odperators.
