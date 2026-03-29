@@ -20,7 +20,7 @@
 - <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear oscillatory integral operators, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Zichen Song, Zihan Wang</strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Submitted).
+- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators I: the exponents lie on diagonal plane, (Submitted).
 - <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear oscillatory integral operators II: the exponents lie on three boundary planes, (Submitted).
