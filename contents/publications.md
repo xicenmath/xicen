@@ -26,65 +26,19 @@
 - <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Submitted).
 - <strong><strong>Xi Cen, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators II: the exponents lie on three boundary planes, (Submitted).
 
-<span style="color:#FF8C00"><strong>Math is hard. So is life. Get over it!</strong></span>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 
 
 <!--
+
+<span style="color:#FF8C00"><strong>Math is hard. So is life. Get over it!</strong></span>
+
+
+
+
+
 
 - <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional bounded mean oscillation operator theory I: sparse domination, sparse $T1$ theorem, off-diagonal extrapolation, quantitative weighted estimate---for generalized commutators, [https://arxiv.org/abs/2506.23486](https://arxiv.org/abs/2506.23486).
 
