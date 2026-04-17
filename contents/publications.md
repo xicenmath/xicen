@@ -24,7 +24,7 @@
 - <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, The Lebesgue and Hardy boundedness for a class of bilinear Fourier integral operators, (Submitted).
 - <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Submitted).
-- <strong><strong>Xi Cen, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators II: the exponents lie on three boundary planes, (Submitted).
+- <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators II: the exponents lie on three boundary planes, (Submitted).
 
 
 
