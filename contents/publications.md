@@ -16,7 +16,7 @@
 - <strong><strong>Xi Cen, Zichen Song, Xinfeng Wu</strong></strong>, The improved weighted estimates for multilinear pseudo-differential operators and their commutators, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Zichen Song, Xinfeng Wu</strong></strong>, Off-diagonal sharp and improved quantitative weighted bounds for multilinear operators with integral regularity: beyond multilinear oscillatory integral operators.
 - <strong><strong>Xi Cen, Wangzihan Bai</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Submitted).
-- <strong><strong>Xi Cen</strong></strong>, Sharp maximal function estimates and weighted estimates for multilinear Fourier integral operators and their commutators, (Under Review in the Journal).
+- <strong><strong>Xi Cen</strong></strong>, Sharp maximal function estimates criteria for multilinear Fourier integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review in the Journal).
