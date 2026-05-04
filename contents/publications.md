@@ -13,8 +13,7 @@
 - <strong><strong>Xi Cen, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Wangzihan Bai</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Submitted).
-- <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for oscillatory integral operators: beyond the Muckenhoupt weights, (Under Review in the Journal).
+- <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review in the Journal).
 - <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review in the Journal).
 - <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Submitted).
@@ -29,6 +28,16 @@
 
 
 <!--
+
+
+- <strong><strong>Xi Cen, Wangzihan Bai</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Submitted).
+
+
+
+
+
+
+
 
 <span style="color:#FF8C00"><strong>Math is hard. So is life. Get over it!</strong></span>
 
