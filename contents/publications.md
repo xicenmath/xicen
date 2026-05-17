@@ -3,6 +3,7 @@
 3. <strong><strong>Xi Cen, Qianjun He, Zichen Song, Zihan Wang (Wangzihan Bai)</strong></strong>, New fractional type weights and the boundedness of some operators, [Anal.Math.Phys. 15, 26 (2025).](https://doi.org/10.1007/s13324-025-01027-z) (Published: 07 February 2025)
 4. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds I: Sparse domination for multilinear pseudo-differential operators, [J. Geom. Anal. 36, 20 (2026).](https://doi.org/10.1007/s12220-025-02268-x) (Published: 25 November 2025)
 5. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, Banach J. Math. Anal.. (Accepted: 31 March 2026)
+6. <strong><strong>Xi Cen</strong></strong>, The criteria for weighted estimates of oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (to appear)
 
 
 ### Submitted
