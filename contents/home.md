@@ -3,14 +3,16 @@
 
 ## Personal Profile
 
-After five years of self-study from 2020 to 2025, I am determined to become a professional player of post-00s harmonic analysis. My hobbies and interests are: long-distance running of 10km, half marathon, and beyond. My research interests mainly focus on Multilinear Harmonic Analysis and Partial Differential Equations, which can be divided into the following aspects:
+Over five years of self-directed independent study spanning 2020 to 2025, I aspire to establish myself as a professional post-2000 researcher specializing in harmonic analysis. 
+Outside of my academic work, I am an avid long-distance runner, with experience in 10km races, half-marathons, and longer-distance competitive events.
+My research focuses primarily on Multilinear Harmonic Analysis and Partial Differential Equations, with specific interests including:
 
-* The property of multilinear oscillatory integral operators, multilinear Fourier integral operators, multilinear pseudo-differential operators, multilinear Fourier multipliers.
-* Sparse bounds and sharp weighted bounds of the important operators.
-* Multilinear extrapolation theory and multilinear dyadic representation theory.
-* The singular integral operators and maximal operators along the curve.
-* Boundedness extended to the weighted  multi-exponent function spaces (weighted Besov spaces, weighted Triebel spaces, weighted Sobolev spaces).
-* Bilinear restriction (Strichartz) estimates and nonlinear Schrödinger equations.
+* Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers.
+* Sparse domination and sharp weighted bounds for key integral operators.
+* Multilinear extrapolation theory and dyadic representation theory.
+* Singular and maximal integral operators associated with curves.
+* Quantitative boundedness of operators on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces.
+* Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation.
 
 
 
