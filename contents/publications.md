@@ -8,19 +8,19 @@
 
 ### Submitted
 
-- <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review in the Journal).
-- <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Under Review in the Journal).
-- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review in the Journal).
+- <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
+- <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
+- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
+- <strong><strong>Xi Cen, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review).
+- <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review).
+- <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
+- <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
+- <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review).
+- <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review).
+- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Under Review).
+- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review).
 - <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, The Lebesgue and Hardy boundedness for a class of bilinear Fourier integral operators, (Submitted).
-- <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Under Review in the Journal).
+- <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Under Review).
 - <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators II: the exponents lie on three boundary planes, (Submitted).
 - <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds II: The off-diagonal sparse domination for multilinear singular integral operators with general integral regularity condition, (Submitted).
 
