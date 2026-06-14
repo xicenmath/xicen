@@ -86,7 +86,7 @@
 <h2 style="color:blue;"> Singular integral and maximal operators along curves: </h2>
 
 
-<h2 style="color:lightblue;"> Coming soon! </h2>
+<h3 style="color:lightblue;"> Coming soon! </h3>
 
 
 
