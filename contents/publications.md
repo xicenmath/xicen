@@ -7,9 +7,37 @@
 7. <strong><strong>Xi Cen</strong></strong>, The weighted estimates criteria for oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (to appear)
 
 
+
+
+My research focuses primarily on Multilinear Harmonic Analysis and Partial Differential Equations, with specific interests including:
+-----
+<h3 style="color:orange;">### (Convex body) Sparse domination and (matrix) weighted estimates for multilinear operators: </h3>
+  - <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
+  - <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
+  - <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
+
+
+-----
+### Quantitative boundedness of operators on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces.
+
+-----
+### Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers.
+
+
+-----
+### Extrapolation theory and dyadic representation theory.
+
+
+
+
+### Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation.
+
+-----
+### Singular integral and maximal operators associated with curves.
+
+
 ### Submitted
 
-- <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
 - <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
 - <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
 - <strong><strong>Xi Cen, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review).
