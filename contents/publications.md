@@ -8,11 +8,12 @@
 5. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, Banach J. Math. Anal.. (Accepted: 31 March 2026)
 6.  <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, Indian J. Pure Appl. Math.. (Accepted: 10 June 2026)
 7. <strong><strong>Xi Cen</strong></strong>, The weighted estimates criteria for oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (to appear)
--->
+
 
 
 
 ### Research List
+-->
 -----
 
 <h2 style="color:purple;"> (Convex body) Sparse domination and (matrix) weighted estimates: </h2>
@@ -32,10 +33,10 @@
 -----
 <h2 style="color:purple;"> Quantitative boundedness of operators on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces: </h2>
 
-- <strong><strong>Xi Cen</strong></strong>, The weighted estimates criteria for oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (to appear)
-- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
-- <strong><strong>Xi Cen, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review).
-- <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review).
+1. <strong><strong>Xi Cen</strong></strong>, The weighted estimates criteria for oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (to appear)
+2. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
+3. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review).
+4. <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review).
 
 
 
