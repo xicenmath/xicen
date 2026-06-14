@@ -39,9 +39,14 @@
 4. <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review).
 
 
+-----
+<h2 style="color:darkblue;"> Extrapolation theory and dyadic representation theory: </h2>
+
+1. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, Indian J. Pure Appl. Math.. (Accepted: 10 June 2026)
+
 
 -----
-<h2 style="color:purple;"> Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers: </h2>
+<h2 style="color:darkblue;"> Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers: </h2>
 
 
 1. <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
@@ -58,21 +63,15 @@
 
 
 
------
-<h2 style="color:purple;"> Extrapolation theory and dyadic representation theory: </h2>
 
-1. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, Indian J. Pure Appl. Math.. (Accepted: 10 June 2026)
+<h2 style="color:darkblue;"> Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation: </h2>
 
-
-
-<h2 style="color:purple;"> Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation: </h2>
-
-2. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review).
+1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review).
 
 
 
 
-<h2 style="color:purple;"> Singular integral and maximal operators associated with curves: </h2>
+<h2 style="color:darkblue;"> Singular integral and maximal operators associated with curves: </h2>
 
 
 
