@@ -16,7 +16,7 @@
 -->
 -----
 
-<h2 style="color:purple;"> (Convex body) Sparse domination and (matrix) weighted estimates: </h2>
+<h2 style="color:lightblue;"> (Convex body) Sparse domination and (matrix) weighted estimates: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, The multilinear Littlewood-Paley square operators and their commutators on weighted Morrey spaces, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-023-00406-1) (Published: 12 May 2023)
 2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6) (Published: 01 August 2024)
@@ -31,7 +31,7 @@
 
 
 -----
-<h2 style="color:purple;"> Quantitative boundedness of operators on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces: </h2>
+<h2 style="color:darkblue;"> Quantitative boundedness of operators on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, The weighted estimates criteria for oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (to appear)
 2. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
