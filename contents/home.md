@@ -8,7 +8,7 @@ Over five years of self-directed independent study spanning 2020 to 2025, I aspi
 My research focuses primarily on Multilinear Harmonic Analysis and Partial Differential Equations, with specific interests including:
 
 * Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers.
-* Sparse domination and sharp weighted bounds for multilinear operators.
+* (Convex body) Sparse domination and (matrix) weighted estimates for multilinear operators.
 * Multilinear extrapolation theory and dyadic representation theory.
 * Singular integral and maximal operators associated with curves.
 * Quantitative boundedness of operators on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces.
