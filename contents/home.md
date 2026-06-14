@@ -5,6 +5,9 @@
 
 Over five years of self-directed independent study spanning 2020 to 2025, I aspire to establish myself as a professional post-2000 researcher specializing in harmonic analysis. Outside of my academic work, I am an amateur recreational long-distance running enthusiast. I have taken part in several amateur 10km runs, half-marathons, and some longer casual running events, using running as a way to stay active and unwind from my research work.
 
+
+<!--
+
 My research focuses primarily on Multilinear Harmonic Analysis and Partial Differential Equations, with specific interests including:
 
 * Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers.
@@ -14,7 +17,7 @@ My research focuses primarily on Multilinear Harmonic Analysis and Partial Diffe
 * Quantitative boundedness of operators on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces.
 * Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation.
 
-
+-->
 
 
 
