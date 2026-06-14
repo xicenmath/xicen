@@ -44,14 +44,14 @@
 <h2 style="color:purple;"> Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers: </h2>
 
 
-- <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
-- <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review).
-- <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review).
-- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Under Review).
-- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Under Review).
-- <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, The Lebesgue and Hardy boundedness for a class of bilinear Fourier integral operators, (Submitted).
-- <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Under Review).
-- <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators II: the exponents lie on three boundary planes, (Submitted).
+1. <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
+2. <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review).
+3. <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review).
+4. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, (Under Review).
+5. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Under Review).
+6. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, The Lebesgue and Hardy boundedness for a class of bilinear Fourier integral operators, (Submitted).
+7. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Under Review).
+8. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators II: the exponents lie on three boundary planes, (Submitted).
 
 
 
@@ -59,22 +59,20 @@
 
 
 -----
-### Extrapolation theory and dyadic representation theory.
+<h2 style="color:purple;"> Extrapolation theory and dyadic representation theory: </h2>
 
-- <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, Indian J. Pure Appl. Math.. (Accepted: 10 June 2026)
-
-
-
-
-### Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation.
-
-- <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review).
+1. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, Indian J. Pure Appl. Math.. (Accepted: 10 June 2026)
 
 
 
+<h2 style="color:purple;"> Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation: </h2>
 
------
-### Singular integral and maximal operators associated with curves.
+2. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review).
+
+
+
+
+<h2 style="color:purple;"> Singular integral and maximal operators associated with curves: </h2>
 
 
 
