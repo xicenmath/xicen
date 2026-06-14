@@ -16,7 +16,22 @@
 -->
 -----
 
+-----
+
 <h2 style="color:lightblue;"> (Convex body) Sparse domination and (matrix) weighted estimates: </h2>
+
+1. <strong><strong>Xi Cen</strong></strong>, The multilinear Littlewood-Paley square operators and their commutators on weighted Morrey spaces, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-023-00406-1) (Published: 12 May 2023)
+2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6) (Published: 01 August 2024)
+3. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds I: Sparse domination for multilinear pseudo-differential operators, [J. Geom. Anal. 36, 20 (2026).](https://doi.org/10.1007/s12220-025-02268-x) (Published: 25 November 2025)
+4. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, Banach J. Math. Anal.. (Accepted: 31 March 2026)
+5. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
+6. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
+7. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
+8. <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
+9. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds II: The off-diagonal sparse domination for multilinear singular integral operators with general integral regularity condition, (Submitted).
+
+-----
+<h2 style="color:blue;"> (Convex body) Sparse domination and (matrix) weighted estimates: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, The multilinear Littlewood-Paley square operators and their commutators on weighted Morrey spaces, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-023-00406-1) (Published: 12 May 2023)
 2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6) (Published: 01 August 2024)
