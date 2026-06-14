@@ -12,7 +12,7 @@
 ### Research List
 -->
 
-### My research focuses primarily on Multilinear Harmonic Analysis and Partial Differential Equations, with specific interests including:
+## My research focuses primarily on Multilinear Harmonic Analysis and Partial Differential Equations, with specific interests including:
 
 
 
