@@ -11,7 +11,7 @@
 
 My research focuses primarily on Multilinear Harmonic Analysis and Partial Differential Equations, with specific interests including:
 -----
-<h3 style="color:orange;">### (Convex body) Sparse domination and (matrix) weighted estimates for multilinear operators: </h3>
+<h3 style="color:orange;"> ### (Convex body) Sparse domination and (matrix) weighted estimates for multilinear operators: </h3>
   - <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
   - <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
   - <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
