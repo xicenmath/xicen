@@ -1,5 +1,5 @@
 
 
-Reviewer for "Mathematical Reviews" (USA) and "Zentralblatt MATH" (Germany)
+Reviewer: "Mathematical Reviews" (USA) and "Zentralblatt MATH" (Germany)
 
-Referee for "Journal of Function Spaces" and "AIMS Mathematics" in 2024, 2026.
+Referee: "Journal of Function Spaces (2024)", "AIMS Mathematics (2024-2026)", "Journal of Applied Analysis (2026)".
