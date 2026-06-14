@@ -59,7 +59,7 @@
 
 
 -----
-<h2 style="color:blue;"> Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers: </h2>
+<h2 style="color:blue;"> Properties of multilinear Fourier integral operators: </h2>
 
 
 1. <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
