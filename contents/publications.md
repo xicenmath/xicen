@@ -25,7 +25,7 @@
 
 -----
 
-<h2 style="color:lightblue;"> Classical Sparse domination and quantitative weighted estimates: </h2>
+<h2 style="color:blue;"> Classical Sparse domination and quantitative weighted estimates: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, The multilinear Littlewood-Paley square operators and their commutators on weighted Morrey spaces, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-023-00406-1) (Published: 12 May 2023)
 2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6) (Published: 01 August 2024)
@@ -43,7 +43,7 @@
 
 
 -----
-<h2 style="color:darkblue;"> Boundedness on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces: </h2>
+<h2 style="color:blue;"> Boundedness on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, The weighted estimates criteria for oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (to appear)
 2. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
@@ -52,13 +52,13 @@
 
 
 -----
-<h2 style="color:darkblue;"> Extrapolation theory and dyadic representation theory: </h2>
+<h2 style="color:blue;"> Extrapolation theory and dyadic representation theory: </h2>
 
 1. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, Indian J. Pure Appl. Math.. (Accepted: 10 June 2026)
 
 
 -----
-<h2 style="color:darkblue;"> Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers: </h2>
+<h2 style="color:blue;"> Properties of multilinear oscillatory integral operators, Fourier integral operators, pseudo-differential operators, and Fourier multipliers: </h2>
 
 
 1. <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
@@ -76,22 +76,29 @@
 
 
 
-<h2 style="color:darkblue;"> Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation: </h2>
+<h2 style="color:blue;"> Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation: </h2>
 
 1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review).
 
 
 
 
-<h2 style="color:darkblue;"> Singular integral and maximal operators associated with curves: </h2>
+<h2 style="color:blue;"> Singular integral and maximal operators along curves: </h2>
 
 
-
-
+<h2 style="color:lightblue;"> Coming soon! </h2>
 
 
 
 <!--
+
+
+
+
+
+
+
+
 ### Submitted
 
 
