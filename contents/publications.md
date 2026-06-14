@@ -19,7 +19,7 @@
 <h2 style="color:blue;"> Convex body Sparse domination and matrix weighted estimates: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, Generalized convex body sparse domination criterion for multilinear pseudo-differential operators, (Submitted).
-2. <strong><strong>Xi Cen</strong></strong>, Convex body sparse domination criterion for Fourier integral operators I, (Submitted).
+2. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds criterion for Fourier integral operators I, (Submitted).
 
 
 
