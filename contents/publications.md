@@ -46,7 +46,7 @@
 -----
 <h2 style="color:blue;"> Boundedness on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces: </h2>
 
-1. <strong><strong>Xi Cen</strong></strong>, Weighted boundedness criteria for oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (to appear)
+1. <strong><strong>Xi Cen</strong></strong>, Weighted boundedness criteria for oscillatory integral operators via sharp maximal function estimates, Ann. Funct. Anal.. (Accepted: 17 June 2026)
 2. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
 3. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators II: via off-diagonal sharp maximal function estimates, (Under Review).
 4. <strong><strong>Xi Cen</strong></strong>, The off-diagonal quantitative weighted improvements for oscillatory integral operators, (Under Review).
