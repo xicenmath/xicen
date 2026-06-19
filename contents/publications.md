@@ -34,9 +34,8 @@
 4. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, Banach J. Math. Anal.. (Accepted: 31 March 2026)
 5. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
 6. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
-7. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
-8. <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
-9. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds II: The off-diagonal sparse domination for multilinear singular integral operators with general integral regularity condition, (Submitted).
+7. <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
+8. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds II: The off-diagonal sparse domination for multilinear singular integral operators with general integral regularity condition, (Submitted).
 
 
 
