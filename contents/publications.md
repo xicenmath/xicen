@@ -20,8 +20,8 @@
 <h2 style="color:blue;"> Convex body sparse domination and matrix weighted estimates: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, Generalized convex body sparse domination criterion for multilinear pseudo-differential operators, (Submitted).
-2. <strong><strong>Xi Cen</strong></strong>, Convex body sparse domination for multilinear H\"ormander type singular integrals, (Submitted).
-3. <strong><strong>Xi Cen</strong></strong>, Matrix weighted estimates for maximal Calder\'on commutator with rough kernel, (Submitted).
+2. <strong><strong>Xi Cen</strong></strong>, Generalized convex-body sparse domination for multilinear Hörmander-type singular integrals, (Submitted).
+3. <strong><strong>Xi Cen</strong></strong>, Matrix weighted estimates for maximal Calderón commutator with rough kernel, (Submitted).
 4. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds criterion for Fourier integral operators I, (Submitted).
 
 
