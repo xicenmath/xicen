@@ -53,7 +53,7 @@
 -----
 <h2 style="color:blue;"> Extrapolation theory and dyadic representation theory: </h2>
 
-1. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, Indian J. Pure Appl. Math.. (Accepted: 10 June 2026)
+1. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-026-00998-4)
 
 
 -----
