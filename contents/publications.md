@@ -73,7 +73,7 @@
 5. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Under Review).
 6. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, The Lebesgue and Hardy boundedness for a class of bilinear Fourier integral operators, (Submitted).
 7. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Under Review).
-8. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators II: the exponents lie on three boundary planes, (Submitted).
+8. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators II: the exponents lie on three boundary planes, (Under Review).
 
 
 
