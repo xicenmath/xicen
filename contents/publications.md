@@ -80,6 +80,7 @@
 1. <strong><strong>Xi Cen</strong></strong>, Weighted boundedness criteria for oscillatory integral operators via sharp maximal function estimates, [Ann. Funct. Anal, (2026).](https://doi.org/10.1007/s43034-026-00527-8). (Accepted: 18 June 2026)
 2. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
 3. <strong><strong>Xi Cen</strong></strong>, Quantitative weighted criteria for pseudo-differential operators on Besov--Lipschitz, Triebel--Lizorkin, and Sobolev spaces, (Under Review).
+4. <strong><strong>Xi Cen, Pengfei Lu, Mengdi Ren</strong></strong>, Multilinear Maximal Operators on Weighted Morrey Spaces with Prescribed Cube Geometry, (Under Review).
 
 
 -----
@@ -111,6 +112,7 @@
 <h2 style="color:blue;"> Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation: </h2>
 
 1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review).
+2. <strong><strong>Xi Cen </strong></strong>, Bilinear restriction estimates for  fractional Schrodinger evolutions on a 2D waveguide, (submitted).
 
 
 
