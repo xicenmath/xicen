@@ -33,7 +33,8 @@
 10. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds and quantitative matrix weighted estimates for Hilbert transforms along curves, (Under Review).
 11. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for singular Radon transforms and applications, (Submitted).
 12. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds and quantitative matrix weighted estimates for maximal oscillatory rough singular integrals, (Submitted).
-
+13. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for Bochner--Riesz means on the critical line and applications, (Submitted).
+14. <strong><strong>Xi Cen</strong></strong>, Convex body sparse domination for operators associated with bilinear Bochner--Riesz means and applications to matrix weights, (Submitted).
 
 
 <!--
