@@ -21,7 +21,7 @@
 
 <h2 style="color:blue;"> Bilinear restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation: </h2>
 
-1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (Under Review).
+1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Bilinear restriction estimates for dispersive-dissipative equations via bilinear space-time Fourier integral operators, (submitted).
 2. <strong><strong>Xi Cen </strong></strong>, Bilinear restriction estimates for fractional Schrödinger equations on 2D waveguide, (submitted).
 3. <strong><strong>Xi Cen </strong></strong>, Strichartz estimates for higher-order fractional N-body Schrödinger operators with small interactions, (submitted).
 
