@@ -81,9 +81,10 @@
 2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6) (Published: 2024-08-01)
 3. <strong><strong>Xi Cen, Qianjun He, Zichen Song, Zihan Wang (Wangzihan Bai) </strong></strong>, New fractional type weights and the boundedness of some operators, [Anal.Math.Phys. 15, 26 (2025).](https://doi.org/10.1007/s13324-025-01027-z) (Published: 2025-01-07)
 4. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds I: Sparse domination for multilinear pseudo-differential operators, [J. Geom. Anal. 36, 20 (2026).](https://doi.org/10.1007/s12220-025-02268-x) (Published: 2025-11-25)
+<!--
 5. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, [Banach J. Math. Anal. (2026)](https://doi.org/10.1007/s12220-025-02268-y). (Accepted: 2026-03-31)
 
-<!--
+
 6. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
 7. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
 8. <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
@@ -97,10 +98,16 @@
 -----
 <h2 style="color:blue;"> Boundedness on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces: </h2>
 
+
+1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
+2. <strong><strong>Xi Cen</strong></strong>, Quantitative weighted criteria for pseudo-differential operators on Besov--Lipschitz, Triebel--Lizorkin, and Sobolev spaces, (Under Review).
+3. <strong><strong>Xi Cen, Pengfei Lu, Mengdi Ren</strong></strong>, Multilinear maximal operators on weighted Morrey spaces with prescribed cube geometry, (Under Review).
+
+<!--
 1. <strong><strong>Xi Cen</strong></strong>, Weighted boundedness criteria for oscillatory integral operators via sharp maximal function estimates, [Ann. Funct. Anal, (2026).](https://doi.org/10.1007/s43034-026-00527-8). (Accepted: 2026-06-18)
-2. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
-3. <strong><strong>Xi Cen</strong></strong>, Quantitative weighted criteria for pseudo-differential operators on Besov--Lipschitz, Triebel--Lizorkin, and Sobolev spaces, (Under Review).
-4. <strong><strong>Xi Cen, Pengfei Lu, Mengdi Ren</strong></strong>, Multilinear maximal operators on weighted Morrey spaces with prescribed cube geometry, (Under Review).
+
+-->
+
 
 
 -----
