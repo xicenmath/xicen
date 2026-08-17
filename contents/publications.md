@@ -120,7 +120,7 @@
 1. <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
 2. <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review).
 3. <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review).
-4. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, [Period. Math. Hung., (2026).](https://doi.org/10.1007/s13226-026-00998-8). (Accepted: 2026-08-15).
+4. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, [Period. Math. Hung., (2026).](https://doi.org/???). (Accepted: 2026-08-15).
 <!--5. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Under Review).
 6. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, The Lebesgue and Hardy boundedness for a class of bilinear Fourier integral operators, (Submitted).
 7. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Under Review).
