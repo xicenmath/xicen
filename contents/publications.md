@@ -24,11 +24,13 @@
 
 1. <strong><strong>Xi Cen </strong></strong>, Bilinear restriction estimates for fractional Schrödinger equations on 2D waveguide, (submitted).
 2. <strong><strong>Xi Cen </strong></strong>, Strichartz estimates for higher-order fractional N-body Schrödinger operators with small interactions, (submitted).
-3. <strong><strong>Xi Cen </strong></strong>, Time-dependent weighted $L^2$ estimates for sublinear fractional Schrödinger equations, (submitted).
+
+<!--3. <strong><strong>Xi Cen </strong></strong>, Time-dependent weighted $L^2$ estimates for sublinear fractional Schrödinger equations, (submitted).
 4. <strong><strong>Xi Cen </strong></strong>,  Time-dependent weighted $L^p$ estimates for fractional Schrödinger equations, (submitted).
 5. <strong><strong>Xi Cen </strong></strong>,  Power-weighted mixed-norm Strichartz estimates for fractional Schrödinger equations, (submitted).
 6. <strong><strong>Xi Cen </strong></strong>,  Orthonormal and Besov-refined Strichartz estimates for many body Schrödinger operators, (submitted).
 7. <strong><strong>Xi Cen </strong></strong>,  Global Strichartz estimates for time-dependent fractional many body Schrödinger equations with critical interactions, (submitted).
+-->
 
 
 
@@ -42,7 +44,7 @@
 3. <strong><strong>Xi Cen</strong></strong>, Matrix weighted estimates for maximal Calderón commutator with rough kernel via form bounds, (Submitted). 
 4. <strong><strong>Xi Cen</strong></strong>, Matrix weighted estimates for pseudo-differential operators via convex body sparse form bounds, (Under Review).
 5. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for rough singular integral operators, (Submitted).
-6. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for commutators of rough singular integral operators, (Submitted).
+<!--6. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for commutators of rough singular integral operators, (Submitted).
 7. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for bilinear rough singular integral operators, (Under Review).
 8. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for Fourier integral operators, (Under Review).
 9. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds and quantitative matrix weighted estimates for bilinear spherical averages, (Submitted).
@@ -52,6 +54,7 @@
 13. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for Bochner--Riesz means on the critical line and applications, (Submitted).
 14. <strong><strong>Xi Cen</strong></strong>, Convex body sparse domination for operators associated with bilinear Bochner--Riesz means and applications to matrix weights, (Submitted).
 
+-->
 
 <!--
 9. <strong><strong>Xi Cen</strong></strong>, BR乘子, (Submitted).
@@ -133,7 +136,7 @@
 <h2 style="color:blue;"> Singular integral and maximal operators along curves: </h2>
 
 
-<h3 style="color:lightblue;"> Coming soon! </h3>
+<h3 style="color:lightblue;"> Coming soon~~ </h3>
 
 
 
