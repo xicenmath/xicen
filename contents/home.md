@@ -44,7 +44,7 @@ Email: xicenmath@gmail.com
 
 📍 **School of Science, China University of Mining and Technology-Beijing**  
 
-🎓 **Master student, Advisor: [Prof. Xinfeng Wu](https://lxy.cumtb.edu.cn/info/1067/1219.htm)**
+🎓 **Graduate student, Advisor: [Prof. Xinfeng Wu](https://lxy.cumtb.edu.cn/info/1067/1219.htm)**
 
 
 <!--
