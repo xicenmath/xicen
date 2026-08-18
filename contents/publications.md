@@ -22,14 +22,14 @@
 <h2 style="color:blue;"> Fourier restriction (Strichartz) estimates and their applications to nonlinear dispersive equations, particularly the nonlinear Schrödinger equation: </h2>
 
 
-1. <strong><strong>Xi Cen </strong></strong>, Bilinear restriction estimates for fractional Schrödinger equations on 2D waveguide, (submitted).
-2. <strong><strong>Xi Cen </strong></strong>, Strichartz estimates for higher-order fractional N-body Schrödinger operators with small interactions, (submitted).
+1. <strong><strong>Xi Cen</strong></strong>, Bilinear restriction estimates for fractional Schrödinger equations on 2D waveguide, (submitted).
+2. <strong><strong>Xi Cen</strong></strong>, Strichartz estimates for higher-order fractional N-body Schrödinger operators with small interactions, (submitted).
 
-<!--3. <strong><strong>Xi Cen </strong></strong>, Time-dependent weighted $L^2$ estimates for sublinear fractional Schrödinger equations, (submitted).
-4. <strong><strong>Xi Cen </strong></strong>,  Time-dependent weighted $L^p$ estimates for fractional Schrödinger equations, (submitted).
-5. <strong><strong>Xi Cen </strong></strong>,  Power-weighted mixed-norm Strichartz estimates for fractional Schrödinger equations, (submitted).
-6. <strong><strong>Xi Cen </strong></strong>,  Orthonormal and Besov-refined Strichartz estimates for many body Schrödinger operators, (submitted).
-7. <strong><strong>Xi Cen </strong></strong>,  Global Strichartz estimates for time-dependent fractional many body Schrödinger equations with critical interactions, (submitted).
+<!--3. <strong><strong>Xi Cen</strong></strong>, Time-dependent weighted $L^2$ estimates for sublinear fractional Schrödinger equations, (submitted).
+4. <strong><strong>Xi Cen</strong></strong>,  Time-dependent weighted $L^p$ estimates for fractional Schrödinger equations, (submitted).
+5. <strong><strong>Xi Cen</strong></strong>,  Power-weighted mixed-norm Strichartz estimates for fractional Schrödinger equations, (submitted).
+6. <strong><strong>Xi Cen</strong></strong>,  Orthonormal and Besov-refined Strichartz estimates for many body Schrödinger operators, (submitted).
+7. <strong><strong>Xi Cen</strong></strong>,  Global Strichartz estimates for time-dependent fractional many body Schrödinger equations with critical interactions, (submitted).
 -->
 
 
@@ -99,7 +99,7 @@
 -----
 <h2 style="color:blue;"> Properties of Fourier integral operators, maximal operators, and singular integral operators: </h2>
 
-1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, [Period. Math. Hung., (2026).](https://doi.org/???). (Accepted: 2026-08-15).
+1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, [Period. Math. Hung., (2026).](https://doi.org/???). (Accepted: 2026-08-15).
 2. <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
 3. <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review).
 4. <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review).
@@ -121,7 +121,7 @@
 <h2 style="color:blue;"> Properties of special operators along curves: </h2>
 
 
-1. <strong><strong>Wangzihan Bai, Xi Cen</strong></strong>, Lebesgue bounds for variable Hilbert transforms along two-coordinate flat curves, (Submitted).
+1. <strong><strong> Xi Cen, Wangzihan Bai</strong></strong>, Lebesgue bounds for variable Hilbert transforms along two-coordinate flat curves, (Submitted).
 
 
 
