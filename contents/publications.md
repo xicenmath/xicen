@@ -118,7 +118,7 @@
 
 
 
-<h2 style="color:blue;"> Singular integral and maximal operators along curves: </h2>
+<h2 style="color:blue;"> Properties of special operators along curves: </h2>
 
 
 1. <strong><strong>Wangzihan Bai, Xi Cen</strong></strong>, Lebesgue bounds for variable Hilbert transforms along two-coordinate flat curves, (Submitted).
