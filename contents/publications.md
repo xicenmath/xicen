@@ -35,7 +35,7 @@
 
 
 -----
-<h2 style="color:blue;"> Convex body sparse domination, matrix Extrapolation theory, and matrix weighted estimates: </h2>
+<h2 style="color:blue;"> Convex body sparse domination, matrix extrapolation theory, and matrix weighted estimates: </h2>
 
 
 
@@ -65,7 +65,7 @@
 
 -----
 
-<h2 style="color:blue;"> Classical sparse domination, Extrapolation theory, and quantitative weighted estimates: </h2>
+<h2 style="color:blue;"> Classical sparse domination, extrapolation theory, and quantitative weighted estimates: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, The multilinear Littlewood-Paley square operators and their commutators on weighted Morrey spaces, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-023-00406-1) (Published: 2023-05-12)
 2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6) (Published: 2024-08-01)
