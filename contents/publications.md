@@ -76,17 +76,19 @@
 
 -----
 
-<h2 style="color:blue;"> Classical sparse domination and quantitative weighted estimates: </h2>
+<h2 style="color:blue;"> Classical sparse domination, Extrapolation theory, and quantitative weighted estimates: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, The multilinear Littlewood-Paley square operators and their commutators on weighted Morrey spaces, [Indian J. Pure Appl. Math., 2024, 55(2): 749-775.](https://doi.org/10.1007/s13226-023-00406-1) (Published: 2023-05-12)
 2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6) (Published: 2024-08-01)
 3. <strong><strong>Xi Cen, Qianjun He, Zichen Song, Zihan Wang (Wangzihan Bai) </strong></strong>, New fractional type weights and the boundedness of some operators, [Anal.Math.Phys. 15, 26 (2025).](https://doi.org/10.1007/s13324-025-01027-z) (Published: 2025-01-07)
 4. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds I: Sparse domination for multilinear pseudo-differential operators, [J. Geom. Anal. 36, 20 (2026).](https://doi.org/10.1007/s12220-025-02268-x) (Published: 2025-11-25)
 5. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, [Banach J. Math. Anal. (2026)](https://doi.org/10.1007/s12220-025-02268-y). (Accepted: 2026-03-31)
-6. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
-7. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
-8. <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
-9. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds II: The off-diagonal sparse domination for multilinear singular integral operators with general integral regularity condition, (Under Review).
+6. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, [Indian J. Pure Appl. Math., (2026)](https://doi.org/10.1007/s13226-026-00998-4) (Published: 2026-06-26)
+7. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
+8. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
+9. <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
+10. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds II: The off-diagonal sparse domination for multilinear singular integral operators with general integral regularity condition, (Under Review).
+
 
 
 
@@ -104,11 +106,6 @@
 
 
 
-
------
-<h2 style="color:blue;"> Extrapolation theory and dyadic representation theory: </h2>
-
-1. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, [Indian J. Pure Appl. Math., (2026)](https://doi.org/10.1007/s13226-026-00998-4) (Published: 2026-06-26)
 
 
 -----
