@@ -109,7 +109,7 @@
 
 
 -----
-<h2 style="color:blue;"> Properties of multilinear Fourier integral operators: </h2>
+<h2 style="color:blue;"> Properties of Fourier integral operators and singular integral operators: </h2>
 
 
 1. <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
