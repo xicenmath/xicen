@@ -89,8 +89,7 @@
 
 1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, The off-diagonal improved weighted estimates for pseudo-differential operators, (Under Review).
 2. <strong><strong>Xi Cen</strong></strong>, Quantitative weighted criteria for pseudo-differential operators on Besov--Lipschitz, Triebel--Lizorkin, and Sobolev spaces, (Under Review).
-3. <strong><strong>Xi Cen, Pengfei Lu, Mengdi Ren</strong></strong>, Multilinear maximal operators on weighted Morrey spaces with prescribed cube geometry, (Under Review).
-4. <strong><strong>Xi Cen</strong></strong>, Weighted boundedness criteria for oscillatory integral operators via sharp maximal function estimates, [Ann. Funct. Anal, (2026).](https://doi.org/10.1007/s43034-026-00527-8). (Accepted: 2026-06-18)
+3. <strong><strong>Xi Cen</strong></strong>, Weighted boundedness criteria for oscillatory integral operators via sharp maximal function estimates, [Ann. Funct. Anal, (2026).](https://doi.org/10.1007/s43034-026-00527-8). (Accepted: 2026-06-18)
 
 
 
@@ -98,13 +97,14 @@
 
 
 -----
-<h2 style="color:blue;"> Properties of Fourier integral operators and singular integral operators: </h2>
+<h2 style="color:blue;"> Properties of Fourier integral operators, maximal operators, and singular integral operators: </h2>
 
 
 1. <strong><strong>Xi Cen</strong></strong>, The roughness improvements of multilinear oscillatory integral operators on local Hardy spaces, (Under Review).
 2. <strong><strong>Xi Cen</strong></strong>, The Lebesgue-Besov estimates for bilinear Fourier integral operators, (Under Review).
 3. <strong><strong>Xi Cen</strong></strong>, Bilinear pseudo-differential operators with the oscillatory symbols of finite order regularity, (Under Review).
 4. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song </strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, [Period. Math. Hung., (2026).](https://doi.org/???). (Accepted: 2026-08-15).
+5. <strong><strong>Xi Cen, Pengfei Lu, Mengdi Ren</strong></strong>, Multilinear maximal operators on weighted Morrey spaces with prescribed cube geometry, (Under Review).
 <!--5. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Kato-Ponce inequality for bilinear oscillatory integral operators on Besov spaces, (Under Review).
 6. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, The Lebesgue and Hardy boundedness for a class of bilinear Fourier integral operators, (Submitted).
 7. <strong><strong>Xi Cen, Wangzihan Bai, Pengfei Lu, Zichen Song</strong></strong>, Endpoint Lebesgue boundedness for bilinear Fourier integral operators I: the exponents lie on diagonal plane, (Under Review).
@@ -122,7 +122,9 @@
 <h2 style="color:blue;"> Singular integral and maximal operators along curves: </h2>
 
 
-<h3 style="color:lightblue;"> Coming soon~~ </h3>
+1. <strong><strong>Wangzihan Bai, Xi Cen</strong></strong>, Lebesgue bounds for variable Hilbert transforms along two-coordinate flat curves, (Submitted).
+
+
 
 
 
