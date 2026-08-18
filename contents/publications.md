@@ -35,6 +35,8 @@
 
 
 -----
+
+
 <h2 style="color:blue;"> Convex body sparse domination, matrix extrapolation theory, and matrix weighted estimates: </h2>
 
 
@@ -84,6 +86,8 @@
 
 
 -----
+
+
 <h2 style="color:blue;"> Boundedness on weighted multi-exponent function spaces, including weighted Besov, Triebel-Lizorkin, and Sobolev spaces: </h2>
 
 1. <strong><strong>Xi Cen</strong></strong>, Weighted boundedness criteria for oscillatory integral operators via sharp maximal function estimates, [Ann. Funct. Anal, (2026).](https://doi.org/10.1007/s43034-026-00527-8). (Accepted: 2026-06-18)
@@ -97,6 +101,8 @@
 
 
 -----
+
+
 <h2 style="color:blue;"> Properties of Fourier integral operators, maximal operators, and singular integral operators: </h2>
 
 1. <strong><strong>Xi Cen, Wangzihan Bai, Zichen Song</strong></strong>, Maximal function estimates for a class of multilinear oscillatory integral operators, [Period. Math. Hung., (2026).](https://doi.org/???). (Accepted: 2026-08-15).
