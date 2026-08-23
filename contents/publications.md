@@ -23,7 +23,7 @@
 
 
 1. <strong><strong>Xi Cen</strong></strong>, Bilinear restriction estimates for fractional Schrödinger equations on 2D waveguide, (submitted).
-2. <strong><strong>Xi Cen</strong></strong>, Strichartz estimates for higher-order fractional N-body Schrödinger operators with small interactions, (submitted).
+2. <strong><strong>Xi Cen</strong></strong>, Strichartz estimates for higher-order fractional many body Schrödinger operators with small interactions, (submitted).
 
 <!--3. <strong><strong>Xi Cen</strong></strong>, Time-dependent weighted $L^2$ estimates for sublinear fractional Schrödinger equations, (submitted).
 4. <strong><strong>Xi Cen</strong></strong>,  Time-dependent weighted $L^p$ estimates for fractional Schrödinger equations, (submitted).
