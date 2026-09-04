@@ -47,15 +47,16 @@
 3. <strong><strong>Xi Cen</strong></strong>, Matrix weighted estimates for maximal Calderón commutator with rough kernel via form bounds, (Submitted). 
 4. <strong><strong>Xi Cen</strong></strong>, Matrix weighted estimates for pseudo-differential operators via convex body sparse form bounds, (Under Review).
 5. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for rough singular integral operators, (Submitted).
-<!--6. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for commutators of rough singular integral operators, (Submitted).
+6. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for commutators of rough singular integral operators, (Submitted).
 7. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for bilinear rough singular integral operators, (Under Review).
 8. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for Fourier integral operators, (Under Review).
 9. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds and quantitative matrix weighted estimates for bilinear spherical averages, (Submitted).
 10. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds and quantitative matrix weighted estimates for Hilbert transforms along curves, (Under Review).
-11. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for singular Radon transforms and applications, (Under Review).
-12. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds and quantitative matrix weighted estimates for oscillatory rough singular integrals, (Submitted).
-13. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for Bochner--Riesz means on the critical line and applications, (Submitted).
-14. <strong><strong>Xi Cen</strong></strong>, Convex body sparse domination for operators associated with bilinear Bochner--Riesz means and applications to matrix weights, (Submitted).
+<!--
+12. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for singular Radon transforms and applications, (Under Review).
+13. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds and quantitative matrix weighted estimates for oscillatory rough singular integrals, (Submitted).
+14. <strong><strong>Xi Cen</strong></strong>, Convex body sparse form bounds for Bochner--Riesz means on the critical line and applications, (Submitted).
+15. <strong><strong>Xi Cen</strong></strong>, Convex body sparse domination for operators associated with bilinear Bochner--Riesz means and applications to matrix weights, (Submitted).
 
 -->
 
@@ -74,7 +75,7 @@
 2. <strong><strong>Xi Cen</strong></strong>, Fractional maximal operators on weighted variable Lebesgue spaces over the spaces of homogeneous type, [Anal.Math.Phys. 14, 94 (2024).](https://doi.org/10.1007/s13324-024-00955-6) (Published: 2024-08-01)
 3. <strong><strong>Xi Cen, Qianjun He, Zichen Song, Zihan Wang (Wangzihan Bai) </strong></strong>, New fractional type weights and the boundedness of some operators, [Anal.Math.Phys. 15, 26 (2025).](https://doi.org/10.1007/s13324-025-01027-z) (Published: 2025-01-07)
 4. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds I: Sparse domination for multilinear pseudo-differential operators, [J. Geom. Anal. 36, 20 (2026).](https://doi.org/10.1007/s12220-025-02268-x) (Published: 2025-11-25)
-5. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, [Banach J. Math. Anal. (2026)](https://doi.org/10.1007/s43037-026-00516-y). (Accepted: 2026-03-31)
+5. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear Fourier integral operators and their commutators, [Banach J. Math. Anal. (2026)](https://doi.org/10.1007/s43037-026-00516-y). (Accepted: 2026-08-29)
 6. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, [Indian J. Pure Appl. Math., (2026)](https://doi.org/10.1007/s13226-026-00998-4) (Published: 2026-06-26)
 7. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
 8. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
