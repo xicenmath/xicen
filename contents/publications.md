@@ -23,10 +23,10 @@
 
 
 1. <strong><strong>Xi Cen</strong></strong>, Bilinear restriction estimates for fractional Schrödinger equations on 2D waveguide, (submitted).
-2. <strong><strong>Xi Cen</strong></strong>, Strichartz estimates for higher-order fractional many body Schrödinger operators with small interactions, (submitted).
-3. <strong><strong>Xi Cen</strong></strong>, Sharp $L^4$ Strichartz estimates for the fractional Schr\"odinger equation on $\R \times \T$, (submitted).
+2. <strong><strong>Xi Cen</strong></strong>, Sharp $L^4$ Strichartz estimates for the fractional Schr\"odinger equation on 2D waveguide, (submitted).
 
-<!--3. <strong><strong>Xi Cen</strong></strong>, Time-dependent weighted $L^2$ estimates for sublinear fractional Schrödinger equations, (submitted).
+<!--2. <strong><strong>Xi Cen</strong></strong>, Strichartz estimates for higher-order fractional many body Schrödinger operators with small interactions, (submitted).
+3. <strong><strong>Xi Cen</strong></strong>, Time-dependent weighted $L^2$ estimates for sublinear fractional Schrödinger equations, (submitted).
 4. <strong><strong>Xi Cen</strong></strong>,  Time-dependent weighted $L^p$ estimates for fractional Schrödinger equations, (submitted).
 5. <strong><strong>Xi Cen</strong></strong>,  Power-weighted mixed-norm Strichartz estimates for fractional Schrödinger equations, (submitted).
 6. <strong><strong>Xi Cen</strong></strong>,  Orthonormal and Besov-refined Strichartz estimates for many body Schrödinger operators, (submitted).
