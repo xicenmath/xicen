@@ -79,14 +79,19 @@
 5. <strong><strong>Xi Cen, Zichen Song</strong></strong>, Extrapolation to product Morrey-Herz spaces and applications, [Indian J. Pure Appl. Math., (2026)](https://doi.org/10.1007/s13226-026-00998-4) (Published: 2026-06-26)
 6. <strong><strong>Xi Cen</strong></strong>, The standard sharp weighted bounds and unweighted boundedness for multilinear oscillatory integral operators and their commutators, [Banach J. Math. Anal. (2026)](https://doi.org/10.1007/s43037-026-00516-y). (Accepted: 2026-08-29)
 7. <strong><strong>Xi Cen, Zichen Song</strong></strong>, New variable weighted conditions for fractional maximal operators over spaces of homogeneous type, (Under Review).
+8. <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
+9. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds II: The off-diagonal sparse domination for multilinear singular integral operators with general integral regularity condition, (Under Review).
+
+
+
+
+<!--
+
 8. <strong><strong>Xi Cen, Zichen Song</strong></strong>, The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate, (Under Review).
-9. <strong><strong>Xi Cen</strong></strong>, On non-Muckenhoupt type weighted boundedness for Fourier integral operators: beyond the Muckenhoupt weights, (Under Review).
-10. <strong><strong>Xi Cen</strong></strong>, Improving sparse bounds II: The off-diagonal sparse domination for multilinear singular integral operators with general integral regularity condition, (Under Review).
 
 
 
-
-
+-->
 
 -----
 
